@@ -29,6 +29,7 @@ https://www.linkedin.com/in/gabriel-carvalho-a3641a227/
 
 ----------------------------------------------------------------------------------
 [![hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=Bieloca123)](https://github.com/Bieloca123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bieloca123)](https://github.com/Bieloca123/github-readme-stats)
 
 
 
