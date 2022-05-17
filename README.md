@@ -4,13 +4,11 @@
 
 ## I'm Gabriel!
 
- 
 
-:computer: I'm studying to be Developer!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:books: I’m currently improving RUBY, HTML, CSS , JAVASCRIPT, POSTGRESQL, MYSQL.
 
 :outbox_tray: 2021 Goals: To increase my knowledge and find new opportunnities
 
@@ -31,7 +29,7 @@ https://www.figma.com/proto/xtCIPp3YRLBB3m9VDYQWzj/Projeto-bot?node-id=73%3A830&
 
 
 https://www.figma.com/proto/Kk87eCJshaPkAwTdqEi5qX/App-incra?node-id=1%3A17&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=310%3A112
-(A project to display your house dimensions and legality used by brazilIan government agency INCRA)
+(A project to display your house dimensions and legality presented to brazilIan government agency INCRA)
 ![image](https://user-images.githubusercontent.com/91221510/146826382-f8e0a864-d5ff-487b-8aaa-ed999bbeeeb7.png)
 
 
