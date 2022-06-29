@@ -16,8 +16,8 @@
 ###
 
 <br clear="both">
-
-<img href="https://raw.githubusercontent.com/Bieloca123/Bieloca123/blob/output/snake.svg" alt="Snake animation" />
+Snake eating my contributions
+![snake gif](https://github.com/Bieloca123/Bieloca123/blob/output/github-contribution-grid-snake.gif]
 
 ###
 
