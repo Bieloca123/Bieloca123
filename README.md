@@ -1,46 +1,52 @@
-# Welcome!
+<h2 align="left">Hi 👋! My name is Gabriel, and I'm a  developer, from Brazil!</h2>
 
- 
+###
 
-## I'm Gabriel!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Bieloca123" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Bieloca123" height="150" alt="languages graph"  />
+</div>
 
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Bieloca123/count.svg?"  />
+</div>
 
-:house_with_garden: I’m from Brazil.
+###
 
-:books: I’m currently improving RUBY, HTML, CSS , JAVASCRIPT, POSTGRESQL, MYSQL.
+<br clear="both">
 
-:outbox_tray: 2021 Goals: To increase my knowledge and find new opportunnities
+<img href="https://raw.githubusercontent.com/Bieloca123/Bieloca123/blob/output/snake.svg" alt="Snake animation" />
 
- 
+###
 
-## About me
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" width="52" alt="heroku logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" width="52" alt="rails logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo"  />
+</div>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Bieloca123)](https://github.com/Bieloca123https://github.com/Bieloca123)
+###
 
-https://www.linkedin.com/in/gabriel-carvalho-a3641a227/
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-carvalho-a3641a227/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-UI/UX Projects.
+###
 
-https://www.figma.com/proto/xtCIPp3YRLBB3m9VDYQWzj/Projeto-bot?node-id=73%3A830&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=73%3A830
-(A whatsapp chatbot that prevents financial crimes mostly used in brazil, with AI embedded that can reconize patterns in pishing websites and if provided forward a email to the local authorities)
-![image](https://user-images.githubusercontent.com/91221510/146826633-653df04f-c83d-4813-ba56-089d29abf7c9.png)
-![image](https://user-images.githubusercontent.com/91221510/146826659-7c9eea79-ef97-4042-9389-0336f132271f.png)
+<p align="center">“ In order to be irreplaceable, one must always be different” – Coco Chanel</p>
 
-
-https://www.figma.com/proto/Kk87eCJshaPkAwTdqEi5qX/App-incra?node-id=1%3A17&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=310%3A112
-(A project to display your house dimensions and legality presented to brazilIan government agency INCRA)
-![image](https://user-images.githubusercontent.com/91221510/146826382-f8e0a864-d5ff-487b-8aaa-ed999bbeeeb7.png)
-
-
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
-
-----------------------------------------------------------------------------------
-[![hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=Bieloca123)](https://github.com/Bieloca123/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bieloca123)](https://github.com/Bieloca123/github-readme-stats)
-
-
-
+###
